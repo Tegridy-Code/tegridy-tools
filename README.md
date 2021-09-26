@@ -24,41 +24,15 @@
 
 ### Many practical and specific Python examples, as well as the detailed Jupyter/Google Colab notebooks are available here:
 
-### [Python Examples](https://github.com/asigalov61/tegridy-tools/tree/main/Examples)
+### [Python Examples](https://github.com//Tegridy-Code/tegridy-tools/tree/main/Examples)
 
-### [Jupyter/Google Colab Notebooks](https://github.com/asigalov61/tegridy-tools/tree/main/tegridy-tools/notebooks)
+### [Jupyter/Google Colab Notebooks](https://github.com/Tegridy-Code/tegridy-tools/tree/main/tegridy-tools/notebooks)
 
 ***
 
 ### Main tegridy-tools repository for large packages/modules is located here:
 
 ### https://1drv.ms/u/s!Ao9gnMkvUA2KgY9Ftz4xsTyiCa4TGA?e=29eMZw
-
-***
-
-# tegridy-tools docs
-
-***
-
-## (NEW) [TMIDIX](https://asigalov61.github.io/tegridy-tools/TMIDIX.html)
-
-## (DEPRECIATED) [TMIDI](https://asigalov61.github.io/tegridy-tools/TMIDI.html)
-
-***
-
-## (NEW) [GPT2RGA](https://asigalov61.github.io/tegridy-tools/GPT2RGA.html)
-## [minGPT](https://asigalov61.github.io/tegridy-tools/minGPT.html)
-## [markovify](https://asigalov61.github.io/tegridy-tools/markovify.html)
-
-***
-
-## [ClassyMIDI](https://asigalov61.github.io/tegridy-tools/ClassyMIDI.html)
-## [TinyMIDI](https://asigalov61.github.io/tegridy-tools/TinyMIDI.html)
-
-***
-
-## (NEW) [SyllablesSearch](https://asigalov61.github.io/tegridy-tools/SyllablesSearch.html)
-## [HaystackSearch](https://asigalov61.github.io/tegridy-tools/HaystackSearch.html)
 
 ***
 
